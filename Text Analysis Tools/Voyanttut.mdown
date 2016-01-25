@@ -25,7 +25,7 @@ Once you click on the "Reveal" button, Voyant produces an analysis of the text (
 
 The first time this happens, voyant will pick up a lot of filler words like and, a, of, the, from, to etc. 
 
-![img](reveal1.jJPG)
+![img](reveal1.JPG)
 
 To avoid this, click on the small optiions button in the top right corner of the cirrus and summary pane (it looks like a tiny wheel) and select: English (Taporware) from the stop words list. 
 
@@ -51,7 +51,7 @@ The coolest thing about Voyant is that you can also convert your data into multi
 
 From here you can selected various options from the tool menu.
 
-![img](tools.jpg)
+![img](tools.JPG)
 
 From there, it will generate your url which you can open in a new window to see your new analysis. 
 
