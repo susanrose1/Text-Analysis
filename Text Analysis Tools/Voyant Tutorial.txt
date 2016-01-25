@@ -1,0 +1,91 @@
+#**Voyant Tutorial: Text Analysis**
+
+[http://voyant-tools.org/]
+
+
+Voyant is a very user friendly online tool for text analysis! As students of Applied Lingusitics, we were really impressed with this tool's ability to offer a quick and accurate snapshot of word frequencies and collocations in a corpus. The ability to change the visualization of your corpus data by viewing it through mutilple visualization tools such as collocation clusters, flowerbed, and word trends (to name only a few) makes Voyant a valuable asset to any discourse analysist trying to getting a deeper understanding of their corpus. Voyant also has a feature for easily exporting your corpus data in the form of a URL so you can post it or store it anywhere. 
+
+##**Applied Lingusitics vs Discourse Studies**
+
+ALDS is often viewed as a bit fragmented 
+as Applied Lingusitics can seem like a separate disapline from Discourse Studies (although many in our field also argue that they are incredibly interconnected). So, for our text analysis we decided to analyze two academic articles from our *Directions in Applied Linguistics and Discourse Studies* course last term, [*Applications in applied linguisitcs: Modes and domains*](http://www.ingentaconnect.com/content/jbp/aila/2013/00000026/00000001/art00001) and [*Critical Discourse Analysis in Applied Linguistics: A Methodological Review*](http://journals1.scholarsportal.info.proxy.library.carleton.ca/pdf/02671905/v34inone/213_cdaialamr.xml). As representations of two different perspectives on our field, we wanted to see what langugage and terminology they had in common in how the discussed the disapline. 
+
+
+##**Getting Started**
+
+To get started with [Voyant](http://voyant-tools.org/) From there, you can upload your text files or copy and paste text directly into the textbox. It should be noted that plain text is works best so we converted our PDF files into text files before uploading them. 
+
+![alt text](homepage.png) 
+
+
+
+##**The Reveal*
+
+Once you click on the "Reveal" button, Voyant produces an analysis of the text (or corpus of texts) in the form of a Cirrus visualization and a brief textual summary of frequent and distinctive words (the "Cirrus" is a word cloud that visually represents the word frequency by taking the most commonly used word in the corpus and representing them with different sizes and colours. If you however you mouse over a word, it shows the number of times that word occurs in the text). 
+
+The first time this happens, voyant will pick up a lot of filler words like and, a, of, the, from, to etc. 
+
+![alt text](reveal1.jpg)
+
+To avoid this, click on the small optiions button in the top right corner of the cirrus and summary pane (it looks like a tiny wheel) and select: English (Taporware) from the stop words list. 
+
+
+![alt text](stopwords.jpg)
+
+
+And you will get something that reveals the content words of the article much more clearly:
+
+
+![alt text](reveal2.jpg)
+
+
+As long as it works, this takes mere moments and you already have a nice snapshot of the language. For research purposes, it shows you the key themes and ideas in your text(s) and for teaching it can show you the key concepts and vocabulary to present to students. The URL can be easily exported so you post this info anywhere for yourself or your class. Better yet, have your students try this on their own for a text that interests them or that they are trying to get to the bottom of. 
+
+
+##**See your Data in Different Ways**
+
+The coolest thing about Voyant is that you can also convert your data into multiple visualizations and formats by exporting it with different tools. To change the tool for your data and see it in a new way, click on the *Export Corpus* button in the bottom of the corpus pane (it looks like a tiny disk and if hover your mouse over it it will say "Export"). From here there are many options for exporting your data. Select: a URL for a different tool/skin and current data
+
+![alt text](Export.png)
+
+
+From here you can selected various options from the tool menu.
+
+![alt text](tools.jpg)
+
+From there, it will generate your url which you can open in a new window to see your new analysis. 
+
+![alt text](url.png)
+
+
+##**Results**
+
+We were able to view our corpus data in three different ways from the original analysis, with varying degrees of success. Remember when you are trying these to apply the stop words globally each time. We tried a flowerbed visualization which looked interesting, but did not seem to reveal much insight into our data...
+
+![alt text](flowerbed.jpg)
+
+We then tried a word trends analysis which plots a line graph of word frequency (how maany time a certain word appears per 10,000 words). If you hover your mouse over the plots on the graph, it gives you a numerical breakdown. 
+
+![alt text](wordtrends.jpg)
+
+This could be quite useful for large corpus analysis and could be used to represent research data for a presentation or a paper. Next, we tried a collocations cluster which groups common words together in the context of the word that most often used before or after it in a sentence. 
+
+![alt text](collocations.jpg)
+
+This was a very useful tool and we liked the interactive nature of the visualization as the groups could be pushed and pulled together in different ways on the screen. It offers another view of the data which gives a deeper context to the analysis as we can see what is happening around the most commonly used words in the discourse. This is again helpful for both a research perspective and a teaching perspective. For discourse analysis it sheds light on themes and meaning, the usuage of terminology and when and how we use it. For teaching EAP, we can find formualic language and reoccuring phrases that give our students a way in to understanding academic writing in another language. In this particular examination, it was apparent that the two articles, which represent the two different section of ALDS, have very different collocations.  
+
+##**Conclusion**
+
+Overall, this text analysis tool was user friendly and offered some cool visualizations and interesting ways to view our texts which did not require any complex techincal skills. The one thing to be cautious about is that not all visualizations are created equal; some are more useful for specific purposes than others. We are excited to use this in the classroom and with online instructors of EAP to see where it could go for students. We are also showing this tool to our classmates in applied linguistics so they can get a sense of what's out there that can improve their research and understanding of various texts. There are many other tools on voyant left to try! Can't wait to give all the other text analysis tools another try as well. 
+
+
+
+
+
+
+
+
+
+
+
+ 
